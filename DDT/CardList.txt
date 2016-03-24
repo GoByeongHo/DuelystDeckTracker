@@ -1,0 +1,310 @@
+Silverguard Squire
+Windblade Adept
+Silverguard Knight
+Lightchaser
+Azurite Lion
+Lysian Brawler
+Suntide Maiden
+Arclyte Sentinel
+Ironcliffe Guardian
+Second Sun
+Sunstone Templar
+Sunriser
+Elyx Stormblade
+Grandmaster Z'ir
+True Strike
+Martydom
+Tempest
+War Surge
+Divine Bond
+Lionheart Blessing
+Magnetize
+Lasting Judgement
+Aerial Rift
+Holy Immolation
+Circle of Life
+Aegis Barrier
+Decimate
+Sunstone Braces
+Skywind Glaives
+Arclyte Regalia
+Chakri Avatar
+Kaido Assassin
+Widowmaker
+Heartseeker
+Jade Monk
+Keshrai Fanblade
+Scarlet Viper
+Celestial Phantom
+Gore Horn
+Four Winds Magi
+Hamon Bladeseeker
+Lantern Fox
+Tusk Boar
+Storm Kage
+Kage Lightning
+Inner Focus
+Ghost Lightning
+Mist Dragon Seal
+Saberspine Seal
+Phoenix Fire
+Ancestral Divination
+Artifact Defiler
+Killing Edge
+Twin Strike
+Mana Vortex
+Mist Walking
+Deathstrike Seal
+Juxtaposition
+Onyx Bear Seal
+Spiral Technique
+Eight Gates
+Heaven's Eclipse
+Bloodrage Mask
+Cyclone Mask
+Mask of Shadows
+Pyromancer
+Ethereal Obelysk
+Wind Shrike
+Dunecaster
+Orb Weaver
+Windstorm Obelysk
+Starfire Scarab
+Imperial Mechanyst
+Sand Howler
+Portal Guardian
+Aymara Healer
+Oserix
+Blindscorch
+Scion's First Wish
+Scion's Second Wish
+Cosmic Flesh
+Entropic Decay
+Siphon Energy
+Bone Swarm
+Sand Trap
+Astral Phasing
+Fountain of Youth
+Inner Oasis
+Dominate Will
+Auroras Tears
+Rasha's Curse
+Star's Fury
+Scion's Third Wish
+Time Maelstrom
+Staff of Y'kir
+Wildfire Ankh
+Hexblade
+Abyssal Crawler
+Gloomchaser
+Shdow Watcher
+Blood Siren
+Nightsorrow Assassin
+Abyssal Juggernaut
+Deepfire Devourer
+Darkspine Elemental
+Bloodmoon Priestess
+Shadowdancer
+Black Souls
+Reaper of the Nine Moons
+Vorpal Reaver
+Spectral Revenant
+Daemonic Lure
+Soulshatter Pact
+Wraithling Swarm
+Dark Transformation
+Shadow Nova
+Darkfire Sacrifice
+Void Pulse
+Shadow Reflection
+Breath of the Unborn
+Grasp of Agory
+Ritual Banishing
+Dark Seed
+Consuming Rebirth
+Rite of the Undervault
+Wraithling Fury
+Deathfire Crescendo
+Nether Summoning
+Horn of Forsaken
+Spectral Blade
+Soul Grimwar
+Earth Walker
+Phalanxar
+Primordial Gazer
+Young Silithar
+Grimrock
+Veteran Silithar
+Kolossus
+Elucidator
+Spirit Harvester
+Unstable Leviathan
+Kujata
+Makantor Warbeast
+Vindicator
+Silithar Elder
+Dampening Wave
+Greater Fortitude
+Mana Burn
+Natural Selection
+Plasma Storm
+Amplification
+Diretide Frenzy
+Tremor
+Earth Sphere
+Flash Reincarnation
+Kinetic Equilibrium
+Egg Morph
+Mind Steal
+Fractal Replication
+Bounded Lifeforce
+Chrysalis Burst
+Metamorphosis
+Adamantite Claws
+Iridium Scale
+Twin Fang
+Crystal Cloaker
+Crystal Wisp
+Fenrir Warmaster
+Borean Bear
+Hearth-Sister
+Wolfraven
+Arctic Displacer
+Snow Chaser
+Glacial Elemental
+Razorback
+Frosthorn Rhyno
+Draugar Lord
+Voice of the Wind
+Ancient Grove
+Flash Freeze
+Aspect of the Fox
+Chromatic Cold
+Frostfire
+Avalanche
+Polarity
+Bonechill Barrier
+Hailstone Prison
+Cryogenesis
+Mesmerize
+Mark of Solitude
+Blazing Spines
+Boundless Courage
+Astpect of the Drake
+Spirit of the Wild
+Gravity Wall
+Aspect of the Mountains
+Snowpiercer
+Winterblade
+Coldbiter
+Dragonlark
+Komodo Charger
+Planar Scout
+Bloodtear Alchemist
+Ephemeral Shroud
+Healing Mystic
+Piercing Mantis
+Rock Pulverizer
+Skyrock Golem
+Vale Hunter
+Bloodshard Golem
+Putid Dreadflayer
+Repulsor Beast
+Saberspine Tiger
+Fire Spitter
+Hailstorm Golem
+Primus Shieldmaster
+Thorn Needler
+Young Flamewing
+Brightmoss Golem
+Stormmetal Golem
+Dragonbone Golem
+Helm of MECHAZ0R
+Maw
+Swamp Entangler
+Bluetip Scorpion
+Ghost Lynx
+Jaxi
+Primus Fist
+Rust Crawler
+Wings of MECHAZ0R
+Blaze Hound
+Songweaver
+Sun seer
+Wind Stopper
+Frostbone Naga
+Suand Burrower
+Silhouette Tracer
+Sun Elemental
+Ash Mephyt
+Dagger Kiri
+Dancing Blades
+Fireblazer
+Rogue Warden
+The High Hand
+Deathblighter
+First Sword of Akrane
+Serpenti
+Storm Aratha
+Whistling Blade
+Prophet of th White Palm
+Azure Horn Shaman
+Flameblood Warlock
+Golem Metallurgist
+Manaforger
+Cannon of MECHAZ0R
+Crimson Oculus
+Crossbones
+Prismatic Illusionist
+Shield Oracle
+Silvertongue Corsair
+Sword of MECHAZ0R
+Wind Runner
+Emerald Rejuvenator
+Lightbender
+Mindwarper
+Owlbeast Sage
+Firestarter
+Araki Headhunter
+Alcuin Loremaster
+Chaos Elemental
+Mogwai
+Sworn Avenger
+Syvrel the Exile
+Venom Toth
+Moebius 
+Artifact Hunter
+Chassis of MECHAZ0R
+Dioltas
+Purgatos the Realmkeeper
+Twilight Sorcerer
+Captain Hank Hart
+Lux Ignis
+Sworn Defender
+Grailmaster
+Golem Vanquisher
+Lady Locke
+Mirkblood Devourer
+Sarlac the Eternal
+Spelljammer
+Black Locust
+Keeper of the Vale
+Zen'Rui the Blightspawned
+Archon Spellbinder
+Eclipse
+Jax Truesight
+Dark Nemesis
+Paddo
+Pandora
+Red Synja
+Rook
+Zurael the Lifegiver
+Khymera
+War Talon
+Bonereaper
+Tethermancer
+Wings of Paradise
+Dreamgazer
+White Widow
+Hollow Grovekeeper
+Astral Crusader
