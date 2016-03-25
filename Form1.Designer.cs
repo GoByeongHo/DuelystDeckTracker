@@ -121,7 +121,9 @@
             this.Controls.Add(this.SearchBox);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Location = new System.Drawing.Point(1600, 140);
             this.Name = "DuelstDeckTrecker";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "DuelstDeckTrecker";
             this.ResumeLayout(false);
             this.PerformLayout();

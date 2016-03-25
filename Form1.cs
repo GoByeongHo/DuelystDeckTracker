@@ -153,12 +153,13 @@ namespace DuelystDeckTracker
 
                 if (saveFileDialog.FileName != "")
                 {
-                    System.IO.FileStream fs =
-                        (System.IO.FileStream)saveFileDialog.OpenFile();
-
-                    System.Runtime.Serialization.Formatters.Binary.BinaryFormatter format =
-                        new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
-                    format.Serialize(fs, currentDeck);
+                    using(System.IO.FileStream fs =
+                        (System.IO.FileStream)saveFileDialog.OpenFile())
+                    {
+                        System.Runtime.Serialization.Formatters.Binary.BinaryFormatter format =
+                            new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
+                        format.Serialize(fs, currentDeck);
+                    }
                 }
             }
         }
@@ -174,14 +175,14 @@ namespace DuelystDeckTracker
 
                 if (openFileDialog.FileName != "")
                 {
-                    System.IO.FileStream fs =
-                        (System.IO.FileStream)openFileDialog.OpenFile();
-
-                    System.Runtime.Serialization.Formatters.Binary.BinaryFormatter format =
-                        new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
-
-                    object read = format.Deserialize(fs);
-                    currentDeck = read as Dictionary<string, int>;
+                    using(System.IO.FileStream fs =
+                        (System.IO.FileStream)openFileDialog.OpenFile())
+                    {
+                        System.Runtime.Serialization.Formatters.Binary.BinaryFormatter format =
+                            new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
+                        object read = format.Deserialize(fs);
+                        currentDeck = read as Dictionary<string, int>;
+                    }
 
                     ResetDeck();
                 }
